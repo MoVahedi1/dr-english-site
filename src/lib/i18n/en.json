@@ -1,0 +1,82 @@
+{
+  "common": {
+    "navigation": {
+      "home": "Home",
+      "treatments": "Treatments",
+      "about": "About",
+      "gallery": "Before & After",
+      "blog": "Blog",
+      "contact": "Contact",
+      "bookNow": "Book Now"
+    },
+    "cta": {
+      "bookConsultation": "Book Consultation",
+      "learnMore": "Learn More",
+      "contactUs": "Contact Us",
+      "scheduleAppointment": "Schedule Appointment"
+    },
+    "footer": {
+      "followUs": "Follow Us",
+      "newsletter": "Stay Updated",
+      "newsletterPlaceholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "allRightsReserved": "All rights reserved",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    },
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "category": "Category",
+    "date": "Date",
+    "author": "Author",
+    "tags": "Tags",
+    "share": "Share",
+    "like": "Like",
+    "comment": "Comment",
+    "views": "Views",
+    "minutesRead": "min read"
+  },
+  "home": {
+    "hero": {
+      "title": "Where Science Meets Beauty",
+      "subtitle": "Experience world-class dermatological care and aesthetic treatments with our board-certified specialists in a luxurious, state-of-the-art facility.",
+      "excellence": "Excellence in Dermatology & Aesthetic Medicine"
+    },
+    "stats": {
+      "yearsExcellence": "Years of Excellence",
+      "happyPatients": "Happy Patients",
+      "successRate": "Success Rate",
+      "awards": "Awards"
+    },
+    "features": {
+      "title": "Why Choose Dr. Dermatology",
+      "subtitle": "We combine cutting-edge technology with personalized care to deliver exceptional results",
+      "boardCertified": {
+        "title": "Board-Certified Experts",
+        "description": "All our dermatologists are board-certified with extensive experience"
+      },
+      "latestTechnology": {
+        "title": "Latest Technology",
+        "description": "State-of-the-art equipment and cutting-edge treatment techniques"
+      },
+      "personalizedCare": {
+        "title": "Personalized Approach",
+        "description": "Customized treatment plans tailored to your unique needs"
+      },
+      "provenResults": {
+        "title": "Proven Results",
+        "description": "Thousands of satisfied patients with documented success stories"
+      }
+    },
+    "treatments": {
+      "title": "Our Signature Treatments",
+      "subtitle": "Discover our comprehensive range of dermatological and aesthetic treatments"
+    }
+  }
+}
